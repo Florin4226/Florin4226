@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florin</h1>
 <h3 align="center">A wannabe developer</h3>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Florin4226.repoName">
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Florin4226.repoName">
 
 - 🔭 I’m currently working on [Rhinoflix](https://rhinoflix.com)
 
