@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florin</h1>
 <h3 align="center">A wannabe developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=florin4226&label=Profile%20views&color=0e75b6&style=flat" alt="florin4226" /> </p>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Florin4226.repoName">
 
 - 🔭 I’m currently working on [Rhinoflix](https://rhinoflix.com)
 
