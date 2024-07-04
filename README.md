@@ -1,3 +1,5 @@
+<img align="left" src="https://api.visitorbadge.io/api/visitors?path=Florin4226&countColor=%23017fc6">
+<img align="right" src="https://img.shields.io/github/followers/DeXoHigh?label=Followers&logo=github&style=for-the-badge">
 <h1 align="center">Hi 👋, I'm Florin</h1>
 <h3 align="center">A 16y developer</h3>
 
