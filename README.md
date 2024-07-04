@@ -12,15 +12,5 @@
 🔧 &emsp; Dedicated to building and maintaining efficient code<br/><br/>
 🔌 &emsp; Enjoy working with Arduino and creating smart home projects<br/><br/>
 🤖 &emsp; Love to build and program robots using Arduino<br/><br/>
-🛠️ &emsp; Passionate about automation and using Arduino for innovative solutions<br/><br/>
 📡 &emsp; Excited to integrate IoT devices with Arduino for seamless automation<br/><br/>
-
-
-
-
-
-
-
-
- 
 </p>
